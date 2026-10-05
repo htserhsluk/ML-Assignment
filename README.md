@@ -34,6 +34,7 @@ ML-Assignment/
 ├── IMT2024065_test_var2.csv        # input
 ├── IMT2024065_pred_var1.csv        # output
 ├── IMT2024065_pred_var2.csv        # output
+├── Report.pdf
 └── LICENSE
 ```
 
