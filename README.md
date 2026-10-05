@@ -1,10 +1,7 @@
 # Polynomial Regression Assignment
 
-**Assignment:** Polynomial Regression  
 **Name:** Kulshresth  
 **Roll Number:** IMT2024065
-
-GitHub repository: https://github.com/htserhsluk/ML-Assignment
 
 ## Overview
 
@@ -35,10 +32,10 @@ ML-Assignment/
 ├── IMT2024065_test_var1.csv        # input
 ├── IMT2024065_train_var2.csv       # input
 ├── IMT2024065_test_var2.csv        # input
-└── ...
+├── IMT2024065_pred_var1.csv        # output
+├── IMT2024065_pred_var2.csv        # output
+└── LICENSE
 ```
-
-The training and test CSV files are assignment inputs. They do not need to be committed to GitHub unless explicitly required by the course.
 
 ## Requirements
 
